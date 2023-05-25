@@ -7,4 +7,3 @@ for i in l:
         c.append(i)
 print(sum(c))
     
-    
